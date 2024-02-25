@@ -45,4 +45,3 @@ public class PlasticWaste {
                 .orElse(null);
     }
 }
-
